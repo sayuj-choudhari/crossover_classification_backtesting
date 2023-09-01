@@ -1,0 +1,2 @@
+# crossover_classification_backtesting
+Continuation of crossover_trading_strategy_backtesting repository with crossover_classification implemented

@@ -1,2 +1,2 @@
 # crossover_classification_backtesting
-Continuation of crossover_trading_strategy_backtesting repository with crossover_classification implemented
+Continuation of crossover_trading_strategy_backtesting repository with crossover_classification implemented, creates buy signals based on the rate of change at which a shorter and long term moving average of OHCL data cross over. Using a RandomForest classifier on past data, the model classifies the rate of change at which the two moving averages intersect as either a 'buy' or 'no buy' signal on whether the stock will move up a certain percentage within the short term.

@@ -20,7 +20,7 @@ The strategy is built to buy and sell with Market-on-Open orders (MOO), where a 
 
 ### Results
 
-On average over 30 trainings and simulations, the model gains ~80% over the 4 years from late 2019-2023 and ~15% over the last 9 months 12/2022 - 9/2023. Over the 4 year span, these results outperform the SP500 over the same time period by 32% (gained 48%) as well as outperforming over the last 9 months by 3% (gained 12%). Below is a plot of the portfolio value and movement over the 4 year span with an 87% gain:
+On average over 30 trainings and simulations, the model gains ~80% over the 4 years from late 2019-2023 and ~15% over the last 9 months 12/2022 - 9/2023. Over the 4 year span, these results outperform the SP500 over the same time period by 32% (gained 48%) as well as outperforming over the last 9 months by 3% (gained 12%). Another main point to note over the 4 year window is that the model was able to avoid taking positions during mid-2022 when the markets where facing a significant down turn and gains tended to be shortlasted. Below is a plot of the portfolio value and movement over the 4 year span with an 87% gain:
 
 ![plot](./Portfolio_simulation_4year.png)
 
